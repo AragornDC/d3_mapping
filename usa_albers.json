@@ -6,7 +6,7 @@
     "translate": [-2463135.2983038994, -2815418.6085912264]
   },
   "objects": {
-    "us": {
+    "units": {
       "type": "GeometryCollection",
       "geometries": [
         {
